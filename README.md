@@ -5,6 +5,8 @@ Form submission data saving in Mysql database
 
 
 Visit our site on live from anywhere -
-https://mohitpahariya9.github.io/Mysql_Form/
 
-http://mohitpahariya.my-style.in/
+     https://mohitpahariya9.github.io/Mysql_Form/
+
+     http://mohitsite.infinityfreeapp.com/
+
